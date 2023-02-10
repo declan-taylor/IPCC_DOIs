@@ -1,0 +1,313 @@
+Abbott, B. W., Bishop, K., Zarnetske, J. P., Minaudo, C., Chapin, F. S., Krause, S., et al. (2019). Human domination ofthe global water cycle absent from depictions and perceptions. Nat. Geosci. 12, 533–540. doi:10.1038/s41561-019-0374-y.
+Adler, R. F., Gu, G., Sapiano, M., Wang, J.-J., and Huffman, G. J. (2017). Global Precipitation: Means, Variations andTrends During the Satellite Era (1979–2014). Surv. Geophys. 38, 679–699. doi:10.1007/s10712-017-9416-4.
+Adler, R. F., Huffman, G. J., Chang, A., Ferraro, R., Xie, P.-P., Janowiak, J., et al. (2003). The Version-2 GlobalPrecipitation Climatology Project (GPCP) Monthly Precipitation Analysis (1979–Present). J. Hydrometeorol. 4,1147–1167. doi:10.1175/1525-7541(2003)004<1147:TVGPCP>2.0.CO;2.
+Adler, R., Sapiano, M., Huffman, G., Bolvin, D., Gu, G., Wang, J., et al. (2016). The new version 2.3 of the GlobalPrecipitation Climatology Project (GPCP) monthly analysis product. Univ. Maryland, April, 1072–1084.
+Allan, R. P., Barlow, M., Byrne, M. P., Cherchi, A., Douville, H., Fowler, H. J., et al. (2020). Advances inunderstanding large-scale responses of the water cycle to climate change. Ann. N. Y. Acad. Sci., 1–27.doi:10.1111/nyas.14337.
+Bader, D. C., Leung, R., Taylor, M., and McCoy, R. B. (2018). E3SM-Project E3SM1.0 model output prepared forCMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.4499.
+Ban, N., Schmidli, J., and Schär, C. (2015). Heavy precipitation in a changing climate: Does short-term summerprecipitation increase faster? Geophys. Res. Lett. 42, 1165–1172. doi:10.1002/2014GL062588.
+Bao, J., Sherwood, S. C., Alexander, L. V., and Evans, J. P. (2017). Future increases in extreme precipitation exceedobserved scaling rates. Nat. Clim. Chang. 7, 128–132. doi:10.1038/nclimate3201.
+Barbero, R., Fowler, H. J., Lenderink, G., and Blenkinsop, S. (2017). Is the intensification of precipitation extremeswith global warming better detected at hourly than daily resolutions? Geophys. Res. Lett. 44, 974–983.doi:10.1002/2016GL071917.
+Bentsen, M., Oliviè, D. J. L., Seland, Ø., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019a). NCC NorESM2-MM model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.8040.
+Bentsen, M., Oliviè, D. J. L., Seland, Ø., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019b). NCC NorESM2-MM model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.8221.
+Bentsen, M., Oliviè, D. J. L., Seland, Ø., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019c). NCC NorESM2-MM model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.8250.
+Bentsen, M., Oliviè, D. J. L., Seland, Ø., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019d). NCC NorESM2-MM model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.8255.
+Bentsen, M., Oliviè, D. J. L., Seland, Ø., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019e). NCC NorESM2-MM model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.8321.
+Bethke, I., Wang, Y., Counillon, F., Kimmritz, M., Fransner, F., Samuelsen, A., et al. (2019). NCC NorCPM1 modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.10896.
+Bonfils, C. J. W. W., Santer, B. D., Fyfe, J. C., Marvel, K., Phillips, T. J., and Zimmerman, S. R. H. H. (2020). Humaninfluence on joint changes in temperature, rainfall and continental aridity. Nat. Clim. Chang. 10, 1–6.doi:10.1038/s41558-020-0821-1.
+Borodina, A., Fischer, E. M., and Knutti, R. (2017). Models are likely to underestimate increase in heavy rainfall in theextratropical regions with high rainfall intensity. Geophys. Res. Lett. 44, 7401–7409.doi:10.1002/2017GL074530.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2018a). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1534.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2018b). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.5195.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2018c). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.5251.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2018d). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 DAMIP hist-aer. doi:10.22033/ESGF/CMIP6.13827.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2018e). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 DAMIP hist-GHG. doi:10.22033/ESGF/CMIP6.13825.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2018f). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 DAMIP hist-nat. doi:10.22033/ESGF/CMIP6.13831.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2019a). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.5262.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2019b). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.5264.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2019c). IPSL IPSL-CM6A-LRmodel output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.5271.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2020a). IPSL IPSL-CM5A2-INCA model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.13661.
+Boucher, O., Denvil, S., Levavasseur, G., Cozic, A., Caubel, A., Foujols, M.-A., et al. (2020b). IPSL IPSL-CM5A2-INCA model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.15711.
+Byun, Y.-H., Lim, Y.-J., Shim, S., Sung, H. M., Sun, M., Kim, J., et al. (2019a). NIMS-KMA KACE1.0-G modeloutput prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.8432.
+Byun, Y.-H., Lim, Y.-J., Shim, S., Sung, H. M., Sun, M., Kim, J., et al. (2019b). NIMS-KMA KACE1.0-G modeloutput prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.8435.
+Byun, Y.-H., Lim, Y.-J., Shim, S., Sung, H. M., Sun, M., Kim, J., et al. (2019c). NIMS-KMA KACE1.0-G modeloutput prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.8456.
+Byun, Y.-H., Lim, Y.-J., Sung, H. M., Kim, J., Sun, M., and Kim, B.-H. (2019d). NIMS-KMA KACE1.0-G modeloutput prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.2241.
+Byun, Y.-H., Lim, Y.-J., Sung, H. M., Kim, J., Sun, M., and Kim, B.-H. (2019e). NIMS-KMA KACE1.0-G modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.8378.
+Byun, Y.-H., Lim, Y.-J., Sung, H. M., Kim, J., Sun, M., and Kim, B.-H. (2019f). NIMS-KMA KACE1.0-G modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.8425.
+Cao, J. (2019a). NUIST NESMv3 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.8780.
+Cao, J. (2019b). NUIST NESMv3 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.8781.
+Cao, J. (2019c). NUIST NESMv3 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.8790.
+Cao, J., and Wang, B. (2019a). NUIST NESMv3 model output prepared for CMIP6 CMIP.doi:10.22033/ESGF/CMIP6.2021.
+Cao, J., and Wang, B. (2019b). NUIST NESMv3 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.8769.
+Cao, J., and Wang, B. (2019c). NUIST NESMv3 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.8776.
+Chai, Z. (2020). CAS CAS-ESM1.0 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.3445.
+Chan, S. C., Kendon, E. J., Roberts, N. M., Fowler, H. J., and Blenkinsop, S. (2016). Downturn in scaling of UKextreme rainfall with temperature for future hottest days. Nat. Geosci. 9, 24–28. doi:10.1038/ngeo2596.
+Danabasoglu, G. (2019a). NCAR CESM2-FV2 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.11301.
+Danabasoglu, G. (2019b). NCAR CESM2-WACCM-FV2 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.11302.
+Danabasoglu, G. (2019c). NCAR CESM2-WACCM model output prepared for CMIP6 CMIP.doi:10.22033/ESGF/CMIP6.10024.
+Danabasoglu, G. (2019d). NCAR CESM2-WACCM model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.10071.
+Danabasoglu, G. (2019e). NCAR CESM2-WACCM model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.10094.
+Danabasoglu, G. (2019f). NCAR CESM2-WACCM model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.10100.
+Danabasoglu, G. (2019g). NCAR CESM2-WACCM model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.10101.
+Danabasoglu, G. (2019h). NCAR CESM2-WACCM model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.10115.
+Danabasoglu, G. (2019i). NCAR CESM2 model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.2185.
+Danabasoglu, G. (2019j). NCAR CESM2 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.7627.
+Danabasoglu, G. (2019k). NCAR CESM2 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.7746.
+Danabasoglu, G. (2019l). NCAR CESM2 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.7748.
+Danabasoglu, G. (2019m). NCAR CESM2 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.7768.
+Danabasoglu, G., Lawrence, D., Lindsay, K., Lipscomb, W., and Strand, G. (2019). NCAR CESM2 model outputprepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.7733.
+Deser, C., Hurrell, J. W., and Phillips, A. S. (2017). The role of the North Atlantic Oscillation in European climateprojections. Clim. Dyn. 49, 3141–3157. doi:10.1007/s00382-016-3502-z.
+Dix, M., Bi, D., Dobrohotoff, P., Fiedler, R., Harman, I., Law, R., et al. (2019a). CSIRO-ARCCSS ACCESS-CM2model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.4271.
+Dix, M., Bi, D., Dobrohotoff, P., Fiedler, R., Harman, I., Law, R., et al. (2019b). CSIRO-ARCCSS ACCESS-CM2model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.4311.
+Dix, M., Bi, D., Dobrohotoff, P., Fiedler, R., Harman, I., Law, R., et al. (2019c). CSIRO-ARCCSS ACCESS-CM2model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.4319.
+Dix, M., Bi, D., Dobrohotoff, P., Fiedler, R., Harman, I., Law, R., et al. (2019d). CSIRO-ARCCSS ACCESS-CM2model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.4321.
+Dix, M., Bi, D., Dobrohotoff, P., Fiedler, R., Harman, I., Law, R., et al. (2019e). CSIRO-ARCCSS ACCESS-CM2model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.4332.
+Donat, M. G., Lowry, A. L., Alexander, L. V., O’Gorman, P. A., and Maher, N. (2016). More extreme precipitation inthe world’s dry and wet regions. Nat. Clim. Chang. 6, 508–513. doi:10.1038/nclimate2941.
+EC-Earth Consortium (EC-Earth) (2019a). EC-Earth-Consortium EC-Earth3-LR model output prepared for CMIP6CMIP piControl. doi:10.22033/ESGF/CMIP6.4847.
+EC-Earth Consortium (EC-Earth) (2019b). EC-Earth-Consortium EC-Earth3-Veg model output prepared for CMIP6CMIP historical. doi:10.22033/ESGF/CMIP6.4706.
+EC-Earth Consortium (EC-Earth) (2019c). EC-Earth-Consortium EC-Earth3-Veg model output prepared for CMIP6CMIP piControl. doi:10.22033/ESGF/CMIP6.4848.
+EC-Earth Consortium (EC-Earth) (2019d). EC-Earth-Consortium EC-Earth3-Veg model output prepared for CMIP6ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.4876.
+EC-Earth Consortium (EC-Earth) (2019e). EC-Earth-Consortium EC-Earth3-Veg model output prepared for CMIP6ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.4882.
+EC-Earth Consortium (EC-Earth) (2019f). EC-Earth-Consortium EC-Earth3-Veg model output prepared for CMIP6ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.4914.
+EC-Earth Consortium (EC-Earth) (2019g). EC-Earth-Consortium EC-Earth3 model output prepared for CMIP6 CMIPhistorical. doi:10.22033/ESGF/CMIP6.4700.
+EC-Earth Consortium (EC-Earth) (2019h). EC-Earth-Consortium EC-Earth3 model output prepared for CMIP6 CMIPpiControl. doi:10.22033/ESGF/CMIP6.4842.
+EC-Earth Consortium (EC-Earth) (2019i). EC-Earth-Consortium EC-Earth3 model output prepared for CMIP6ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.4874.
+EC-Earth Consortium (EC-Earth) (2019j). EC-Earth-Consortium EC-Earth3 model output prepared for CMIP6ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.4880.
+EC-Earth Consortium (EC-Earth) (2019k). EC-Earth-Consortium EC-Earth3 model output prepared for CMIP6ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.4912.
+EC-Earth Consortium (EC-Earth) (2020a). EC-Earth-Consortium EC-Earth3-AerChem model output prepared forCMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.4843.
+EC-Earth Consortium (EC-Earth) (2020b). EC-Earth-Consortium EC-Earth3-Veg-LR model output prepared forCMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.4707.
+EC-Earth Consortium (EC-Earth) (2020c). EC-Earth-Consortium EC-Earth3-Veg-LR model output prepared forCMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.4849.
+EC-Earth Consortium (EC-Earth) (2020d). EC-Earth-Consortium EC-Earth3-Veg-LR model output prepared forCMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.4915.
+Fischer, E. M., and Knutti, R. (2015). Anthropogenic contribution to global occurrence of heavy-precipitation and high-temperature extremes. Nat. Clim. Chang. 5, 560–564. doi:10.1038/nclimate2617.
+Fläschner, D., Mauritsen, T., and Stevens, B. (2016). Understanding the intermodel spread in global-mean hydrologicalsensitivity. J. Clim. 29, 801–817. doi:10.1175/JCLI-D-15-0351.1.
+Good, P. (2019). MOHC HadGEM3-GC31-LL model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.10851.
+Good, P. (2020a). MOHC HadGEM3-GC31-LL model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.10849.
+Good, P. (2020b). MOHC HadGEM3-GC31-LL model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.10901.
+Good, P., Sellar, A., Tang, Y., Rumbold, S., Ellis, R., Kelley, D., et al. (2019a). MOHC UKESM1.0-LL model outputprepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.6333.
+Good, P., Sellar, A., Tang, Y., Rumbold, S., Ellis, R., Kelley, D., et al. (2019b). MOHC UKESM1.0-LL model outputprepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.6339.
+Good, P., Sellar, A., Tang, Y., Rumbold, S., Ellis, R., Kelley, D., et al. (2019c). MOHC UKESM1.0-LL model outputprepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.6405.
+Guerreiro, S. B., Fowler, H. J., Barbero, R., Westra, S., Lenderink, G., Blenkinsop, S., et al. (2018). Detection ofcontinental-scale intensification of hourly rainfall extremes. Nat. Clim. Chang. 8, 803–807. doi:10.1038/s41558-018-0245-3.
+Guo, C., Bentsen, M., Bethke, I., Ilicak, M., Tjiputra, J., Toniazzo, T., et al. (2019). NCC NorESM1-F model outputprepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.11595.
+Guo, H., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018a). NOAA-GFDL GFDL-CM4 model output. doi:10.22033/ESGF/CMIP6.1402.
+Guo, H., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018b). NOAA-GFDL GFDL-CM4 model output historical. doi:10.22033/ESGF/CMIP6.8594.
+Guo, H., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018c). NOAA-GFDL GFDL-CM4 model output piControl. doi:10.22033/ESGF/CMIP6.8666.
+Guo, H., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018d). NOAA-GFDL GFDL-CM4 model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.9263.
+Guo, H., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018e). NOAA-GFDL GFDL-CM4 model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.9268.
+Gutenstein, M., Fennig, K., Schröder, M., Trent, T., Bakan, S., Roberts, J. B., et al. (2020). Intercomparison offreshwater fluxes over ocean and investigations into water budget closure. Hydrol. Earth Syst. Sci. Discuss. 2020,1–35. doi:10.5194/hess-2020-317.
+Haerter, J. O., and Schlemmer, L. (2018). Intensified Cold Pool Dynamics Under Stronger Surface Heating. Geophys.Res. Lett. 45, 6299–6310. doi:10.1029/2017GL076874.
+Hajima, T., Abe, M., Arakawa, O., Suzuki, T., Komuro, Y., Ogura, T., et al. (2019a). MIROC MIROC-ES2L modeloutput prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.902.
+Hajima, T., Abe, M., Arakawa, O., Suzuki, T., Komuro, Y., Ogura, T., et al. (2019b). MIROC MIROC-ES2L modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.5602.
+Hajima, T., Abe, M., Arakawa, O., Suzuki, T., Komuro, Y., Ogura, T., et al. (2019c). MIROC MIROC-ES2L modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.5710.
+Harris, I., Jones, P. D., Osborn, T. J., and Lister, D. H. (2014). Updated high-resolution grids of monthly climaticobservations – the CRU TS3.10 Dataset. Int. J. Climatol. 34, 623–642. doi:10.1002/joc.3711.
+Hessl, A. E., Anchukaitis, K. J., Jelsema, C., Cook, B., Byambasuren, O., Leland, C., et al. (2018). Past and futuredrought in Mongolia. Sci. Adv. 4, e1701832.
+Huang, W. (2019a). THU CIESM model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.8843.
+Huang, W. (2019b). THU CIESM model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.8849.
+Huang, W. (2019c). THU CIESM model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.8857.
+Huang, W. (2020a). THU CIESM model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.8858.
+Huang, W. (2020b). THU CIESM model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.8863.
+Huffman, G. J., Adler, R. F., Arkin, P., Chang, A., Ferraro, R., Gruber, A., et al. (1997). The Global PrecipitationClimatology Project (GPCP) Combined Precipitation Dataset. Bull. Am. Meteorol. Soc. doi:10.1175/1520-0477(1997)078<0005:TGPCPG>2.0.CO;2.
+Huffman, G. J., Adler, R. F., Bolvin, D. T., and Gu, G. (2009). Improving the global precipitation record: GPCPVersion 2.1. Geophys. Res. Lett. 36. doi:https://doi.org/10.1029/2009GL040000.
+Jackson, L. (2020a). MOHC HadGEM3-GC31-MM model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.10850.
+Jackson, L. (2020b). MOHC HadGEM3-GC31-MM model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.10902.
+John, J. G., Blanton, C., McHugh, C., Radhakrishnan, A., Rand, K., Vahlenkamp, H., et al. (2018a). NOAA-GFDLGFDL-ESM4 model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.8684.
+John, J. G., Blanton, C., McHugh, C., Radhakrishnan, A., Rand, K., Vahlenkamp, H., et al. (2018b). NOAA-GFDLGFDL-ESM4 model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.8686.
+John, J. G., Blanton, C., McHugh, C., Radhakrishnan, A., Rand, K., Vahlenkamp, H., et al. (2018c). NOAA-GFDLGFDL-ESM4 model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.8706.
+Jones, G. (2019a). MOHC HadGEM3-GC31-LL model output prepared for CMIP6 DAMIP hist-aer.doi:10.22033/ESGF/CMIP6.6052.
+Jones, G. (2019b). MOHC HadGEM3-GC31-LL model output prepared for CMIP6 DAMIP hist-GHG.doi:10.22033/ESGF/CMIP6.6051.
+Jones, G. (2019c). MOHC HadGEM3-GC31-LL model output prepared for CMIP6 DAMIP hist-nat.doi:10.22033/ESGF/CMIP6.6059.
+Jungclaus, J., Bittner, M., Wieners, K.-H., Wachsmann, F., Schupfner, M., Legutke, S., et al. (2019a). MPI-M MPI-ESM1.2-HR model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.6594.
+Jungclaus, J., Bittner, M., Wieners, K.-H., Wachsmann, F., Schupfner, M., Legutke, S., et al. (2019b). MPI-M MPI-ESM1.2-HR model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.6674.
+Jungclaus, J., Bittner, M., Wieners, K.-H., Wachsmann, F., Schupfner, M., Legutke, S., et al. (2019c). MPI-MMPIESM1.2-HR model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.741.
+Krasting, J. P., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018a). NOAA-GFDLGFDL-ESM4 model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1407.
+Krasting, J. P., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018b). NOAA-GFDLGFDL-ESM4 model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.8597.
+Krasting, J. P., John, J. G., Blanton, C., McHugh, C., Nikonov, S., Radhakrishnan, A., et al. (2018c). NOAA-GFDLGFDL-ESM4 model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.8669.
+Kwon, E. Y., Kim, G., Primeau, F., Moore, W. S., Cho, H.-M., DeVries, T., et al. (2014). Global estimate of submarinegroundwater discharge based on an observationally constrained radium isotope model. Geophys. Res. Lett. 41,8438–8444. doi:10.1002/2014GL061574.
+Lee, W.-L., and Liang, H.-C. (2020a). AS-RCEC TaiESM1.0 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.9755.
+Lee, W.-L., and Liang, H.-C. (2020b). AS-RCEC TaiESM1.0 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.9798.
+Lee, W.-L., and Liang, H.-C. (2020c). AS-RCEC TaiESM1.0 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.9823.
+Lehner, F., Deser, C., Maher, N., Marotzke, J., Fischer, E. M., Brunner, L., et al. (2020). Partitioning climate projectionuncertainty with multiple Large Ensembles and CMIP5/6. Earth Syst. Dyn. 11, 1–28. doi:10.5194/esd-11-491-2020.
+Lenderink, G., Belušić, D., Fowler, H. J., Kjellström, E., Lind, P., van Meijgaard, E., et al. (2019). Systematic increasesin the thermodynamic response of hourly precipitation extremes in an idealized warming experiment with aconvection-permitting climate model. Environ. Res. Lett. 14, 074012. doi:10.1088/1748-9326/ab214a.
+Li, L. (2019a). CAS FGOALS-g3 model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1783.
+Li, L. (2019b). CAS FGOALS-g3 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.3356.
+Li, L. (2019c). CAS FGOALS-g3 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.3448.
+Li, L. (2019d). CAS FGOALS-g3 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.3465.
+Li, L. (2019e). CAS FGOALS-g3 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.3469.
+Li, L. (2019f). CAS FGOALS-g3 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.3503.
+Li, L. (2020a). CAS FGOALS-g3 model output prepared for CMIP6 DAMIP. doi:10.22033/ESGF/CMIP6.2048.
+Li, L. (2020b). CAS FGOALS-g3 model output prepared for CMIP6 DAMIP hist-aer.doi:10.22033/ESGF/CMIP6.3323.
+Li, L. (2020c). CAS FGOALS-g3 model output prepared for CMIP6 DAMIP hist-GHG.doi:10.22033/ESGF/CMIP6.3321.
+Li, L. (2020d). CAS FGOALS-g3 model output prepared for CMIP6 DAMIP hist-nat.doi:10.22033/ESGF/CMIP6.3330.
+Liu, W., Xie, S. P., Liu, Z., and Zhu, J. (2017). Overlooked possibility of a collapsed atlantic meridional overturningcirculation in warming climate. Sci. Adv. doi:10.1126/sciadv.1601666.
+Liu, Z., Otto-Bliesner, B. L., He, F., Brady, E. C., Tomas, R., Clark, P. U., et al. (2009). Transient simulation of lastdeglaciation with a new mechanism for bolling-allerod warming. Science (80-. ). doi:10.1126/science.1171041.
+Lovato, T., and Peano, D. (2020a). CMCC CMCC-CM2-SR5 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.3825.
+Lovato, T., and Peano, D. (2020b). CMCC CMCC-CM2-SR5 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.3874.
+Lovato, T., and Peano, D. (2020c). CMCC CMCC-CM2-SR5 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.3887.
+Lovato, T., and Peano, D. (2020d). CMCC CMCC-CM2-SR5 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.3889.
+Lovato, T., and Peano, D. (2020e). CMCC CMCC-CM2-SR5 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.3896.
+Luijendijk, E., Gleeson, T., and Moosdorf, N. (2020). Fresh groundwater discharge insignificant for the world’s oceansbut important for coastal ecosystems. Nat. Commun. 11, 1260. doi:10.1038/s41467-020-15064-8.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2018a). NASA-GISS GISS-E2.1G model output preparedfor CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1400.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2018b). NASA-GISS GISS-E2.1G model output preparedfor CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.7127.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2018c). NASA-GISS GISS-E2.1G model output preparedfor CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.7380.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2018d). NASA-GISS GISS-E2.1H model output preparedfor CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.7381.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2020a). NASA-GISS GISS-E2.1G model output preparedfor CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.7410.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2020b). NASA-GISS GISS-E2.1G model output preparedfor CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.7415.
+NASA Goddard Institute for Space Studies (NASA/GISS) (2020c). NASA-GISS GISS-E2.1G model output preparedfor CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.7460.
+Neubauer, D., Ferrachat, S., Siegenthaler-Le Drian, C., Stoll, J., Folini, D. S., Tegen, I., et al. (2019). HAMMOZ-Consortium MPI-ESM1.2-HAM model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.5037.
+O’Gorman, P. A. (2012). Sensitivity of tropical precipitation extremes to climate change. Nat. Geosci. 5, 697–700.doi:10.1038/ngeo1568.
+Palmer, J. G., Cook, E. R., Turney, C. S. M., Allen, K., Fenwick, P., Cook, B. I., et al. (2015). Drought variability in theeastern Australia and New Zealand summer drought atlas (ANZDA, CE 1500-2012) modulated by theInterdecadal Pacific Oscillation. Environ. Res. Lett. doi:10.1088/1748-9326/10/12/124002.
+Panickal, S., and Narayanasetti, S. (2020a). CCCR-IITM IITM-ESM model output prepared for CMIP6 ScenarioMIPssp126. doi:10.22033/ESGF/CMIP6.14747.
+Panickal, S., and Narayanasetti, S. (2020b). CCCR-IITM IITM-ESM model output prepared for CMIP6 ScenarioMIPssp245. doi:10.22033/ESGF/CMIP6.14748.
+Panickal, S., and Narayanasetti, S. (2020c). CCCR-IITM IITM-ESM model output prepared for CMIP6 ScenarioMIPssp585. doi:10.22033/ESGF/CMIP6.14753.
+Park, S., and Shin, J. (2019). SNU SAM0-UNICON model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.7791.
+Pederson, N., Hessl, A. E., Baatarbileg, N., Anchukaitis, K. J., and Di Cosmo, N. (2014). Pluvials, droughts, theMongol Empire, and modern Mongolia. Proc. Natl. Acad. Sci. doi:10.1073/pnas.1318677111.
+Pendergrass, A. G. (2020). The global-mean precipitation response to CO2-induced warming in CMIP6 models.Geophyisical Res. Lett. 47, e2020GL089964. doi:10.1029/2020GL089964.
+Prein, A. F., Rasmussen, R. M., Ikeda, K., Liu, C., Clark, M. P., and Holland, G. J. (2017). The future intensification ofhourly precipitation extremes. Nat. Clim. Chang. 7, 48–52. doi:10.1038/nclimate3168.
+Pulliainen, J., Luojus, K., Derksen, C., Mudryk, L., Lemmetyinen, J., Salminen, M., et al. (2020). Patterns and trends ofNorthern Hemisphere snow mass from 1980 to 2018. Nature 581, 294–298. doi:10.1038/s41586-020-2258-0.
+Raghavan, K., and Panickal, S. (2019). CCCR-IITM IITM-ESM model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.3708.
+Rehfeld, K., Hébert, R., Lora, J., Lofverstrom, M., and Brierley, C. (2020). Variability of surface climate in simulationsof past and future. Earth Syst. Dyn. Discuss. 11, 1–30. doi:10.5194/esd-2019-92.
+Richardson, T. B., Forster, P. M. P., Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., et al. (2018). Drivers ofprecipitation change: An energetic understanding. J. Clim. 31, 9641–9657. doi:10.1175/JCLI-D-17-0240.1.
+Ridley, J., Menary, M., Kuhlbrodt, T., Andrews, M., and Andrews, T. (2018). MOHC HadGEM3-GC31-LL modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.6294.
+Ridley, J., Menary, M., Kuhlbrodt, T., Andrews, M., and Andrews, T. (2019a). MOHC HadGEM3-GC31-LL modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.6109.
+Ridley, J., Menary, M., Kuhlbrodt, T., Andrews, M., and Andrews, T. (2019b). MOHC HadGEM3-GC31-MM modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.6112.
+Ridley, J., Menary, M., Kuhlbrodt, T., Andrews, M., and Andrews, T. (2019c). MOHC HadGEM3-GC31-MM modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.6297.
+Rodell, M., Beaudoing, H. K., L’Ecuyer, T. S., Olson, W. S., Famiglietti, J. S., Houser, P. R., et al. (2015). Theobserved state of the water cycle in the early twenty-first century. J. Clim. 28, 8289–8318. doi:10.1175/JCLI-D-14-00555.1.
+Rodell, M., Famiglietti, J. S., Wiese, D. N., Reager, J. T., Beaudoing, H. K., Landerer, F. W., et al. (2018). Emergingtrends in global freshwater availability. Nature 557, 651–659. doi:10.1038/s41586-018-0123-1.
+Rong, X. (2019a). CAMS CAMS_CSM1.0 model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1399.
+Rong, X. (2019b). CAMS CAMS_CSM1.0 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.9754.
+Rong, X. (2019c). CAMS CAMS_CSM1.0 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.9797.
+Rong, X. (2019d). CAMS CAMS-CSM1.0 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.11046.
+Rong, X. (2019e). CAMS CAMS-CSM1.0 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.11047.
+Rong, X. (2019f). CAMS CAMS-CSM1.0 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.11052.
+Samset, B. H., Myhre, G., Forster, P. M., Hodnebrog, Ø., Andrews, T., Boucher, O., et al. (2018). Weak hydrologicalsensitivity to temperature change over land, independent of climate forcing. npj Clim. Atmos. Sci. 1, 3.doi:10.1038/s41612-017-0005-5.
+Schupfner, M., Wieners, K.-H., Wachsmann, F., Steger, C., Bittner, M., Jungclaus, J., et al. (2019a). DKRZ MPI-ESM1.2-HR model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.4397.
+Schupfner, M., Wieners, K.-H., Wachsmann, F., Steger, C., Bittner, M., Jungclaus, J., et al. (2019b). DKRZ MPI-ESM1.2-HR model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.4398.
+Schupfner, M., Wieners, K.-H., Wachsmann, F., Steger, C., Bittner, M., Jungclaus, J., et al. (2019c). DKRZ MPI-ESM1.2-HR model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.4403.
+Seferian, R. (2018a). CNRM-CERFACS CNRM-ESM2-1 model output prepared for CMIP6 CMIP.doi:10.22033/ESGF/CMIP6.1391.
+Seferian, R. (2018b). CNRM-CERFACS CNRM-ESM2-1 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.4068.
+Seferian, R. (2018c). CNRM-CERFACS CNRM-ESM2-1 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.4165.
+Seland, Ø., Bentsen, M., Oliviè, D. J. L., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019a). NCC NorESM2-LM model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.8036.
+Seland, Ø., Bentsen, M., Oliviè, D. J. L., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019b). NCC NorESM2-LM model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.8217.
+Seland, Ø., Bentsen, M., Oliviè, D. J. L., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019c). NCC NorESM2-LM model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.8248.
+Seland, Ø., Bentsen, M., Oliviè, D. J. L., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019d). NCC NorESM2-LM model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.8253.
+Seland, Ø., Bentsen, M., Oliviè, D. J. L., Toniazzo, T., Gjermundsen, A., Graff, L. S., et al. (2019e). NCC NorESM2-LM model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.8319.
+Semmler, T., Danilov, S., Rackow, T., Sidorenko, D., Barbi, D., Hegewald, J., et al. (2018a). AWI AWI-CM1.1MRmodel output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.2686.
+Semmler, T., Danilov, S., Rackow, T., Sidorenko, D., Barbi, D., Hegewald, J., et al. (2018b). AWI AWI-CM1.1MRmodel output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.2777.
+Semmler, T., Danilov, S., Rackow, T., Sidorenko, D., Barbi, D., Hegewald, J., et al. (2018c). AWI AWI-CM1.1MRmodel output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.2796.
+Semmler, T., Danilov, S., Rackow, T., Sidorenko, D., Barbi, D., Hegewald, J., et al. (2018d). AWI AWI-CM1.1MRmodel output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.2800.
+Semmler, T., Danilov, S., Rackow, T., Sidorenko, D., Barbi, D., Hegewald, J., et al. (2019). AWI AWI-CM1.1MRmodel output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.2817.
+Sénési, S. (2020). CAMMAC - Climate Change Analysis using Multi-Model outputs and CliMAF.doi:10.5281/zenodo.4061814.
+Sénési, S., Servonnat, J., Rigoudy, G., and Vignon, L. (2021). CliMAF V2.0.1 pre-release.doi:10.5281/zenodo.4681071.
+Shiogama, H. (2019a). MIROC MIROC6 model output prepared for CMIP6 DAMIP hist-aer.doi:10.22033/ESGF/CMIP6.5579.
+Shiogama, H. (2019b). MIROC MIROC6 model output prepared for CMIP6 DAMIP hist-GHG.doi:10.22033/ESGF/CMIP6.5578.
+Shiogama, H. (2019c). MIROC MIROC6 model output prepared for CMIP6 DAMIP hist-nat.doi:10.22033/ESGF/CMIP6.5583.
+Shiogama, H., Abe, M., and Tatebe, H. (2019a). MIROC MIROC6 model output prepared for CMIP6 ScenarioMIPssp126. doi:10.22033/ESGF/CMIP6.5743.
+Shiogama, H., Abe, M., and Tatebe, H. (2019b). MIROC MIROC6 model output prepared for CMIP6 ScenarioMIPssp245. doi:10.22033/ESGF/CMIP6.5746.
+Shiogama, H., Abe, M., and Tatebe, H. (2019c). MIROC MIROC6 model output prepared for CMIP6 ScenarioMIPssp585. doi:10.22033/ESGF/CMIP6.5771.
+Song, Z., Qiao, F., Bao, Y., Shu, Q., Song, Y., and Yang, X. (2019a). FIO-QLNM FIO-ESM2.0 model output preparedfor CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.9199.
+Song, Z., Qiao, F., Bao, Y., Shu, Q., Song, Y., and Yang, X. (2019b). FIO-QLNM FIO-ESM2.0 model output preparedfor CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.9205.
+Song, Z., Qiao, F., Bao, Y., Shu, Q., Song, Y., and Yang, X. (2019c). FIO-QLNM FIO-ESM2.0 model output preparedfor CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.9208.
+Song, Z., Qiao, F., Bao, Y., Shu, Q., Song, Y., and Yang, X. (2019d). FIO-QLNM FIO-ESM2.0 model output preparedfor CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.9209.
+Song, Z., Qiao, F., Bao, Y., Shu, Q., Song, Y., and Yang, X. (2019e). FIO-QLNM FIO-ESM2.0 model output preparedfor CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.9214.
+Stephens, G. L., Li, J., Wild, M., Clayson, C. A., Loeb, N., Kato, S., et al. (2012). An update on Earth’s energy balancein light of the latest global observations. Nat. Geosci. 5, 691–696. doi:10.1038/ngeo1580.
+Stouffer, R. (2019a). U of Arizona MCM-UA-1-0 model output prepared for CMIP6 CMIP.doi:10.22033/ESGF/CMIP6.2421.
+Stouffer, R. (2019b). UA MCM-UA-1-0 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.8888.
+Stouffer, R. (2019c). UA MCM-UA-1-0 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.8890.
+Stouffer, R. (2019d). UA MCM-UA-1-0 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.13895.
+Stouffer, R. (2019e). UA MCM-UA-1-0 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.13896.
+Stouffer, R. (2019f). UA MCM-UA-1-0 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.13901.
+Sun, Q., Zhang, X., Zwiers, F., Westra, S., and Alexander, L. V. (2020). A global, continental and regional analysis ofchanges in extreme precipitation. J. Clim., 1–52. doi:10.1175/jcli-d-19-0892.1.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019a). CCCma CanESM5-CanOE model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.10205.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019b). CCCma CanESM5-CanOE model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.10260.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019c). CCCma CanESM5-CanOE model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.10266.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019d). CCCma CanESM5-CanOE model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.10269.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019e). CCCma CanESM5-CanOE model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.10270.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019f). CCCma CanESM5-CanOE model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.10276.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019g). CCCma CanESM5model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1303.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019h). CCCma CanESM5model output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.3610.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019i). CCCma CanESM5model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.3673.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019j). CCCma CanESM5model output prepared for CMIP6 DAMIP hist-aer. doi:10.22033/ESGF/CMIP6.3597.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019k). CCCma CanESM5model output prepared for CMIP6 DAMIP hist-GHG. doi:10.22033/ESGF/CMIP6.3596.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019l). CCCma CanESM5model output prepared for CMIP6 DAMIP hist-nat. doi:10.22033/ESGF/CMIP6.3601.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019m). CCCma CanESM5model output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.3683.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019n). CCCma CanESM5model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.3685.
+Swart, N. C., Cole, J. N. S., Kharin, V. V, Lazare, M., Scinocca, J. F., Gillett, N. P., et al. (2019o). CCCma CanESM5model output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.3696.
+Tachiiri, K., Abe, M., Hajima, T., Arakawa, O., Suzuki, T., Komuro, Y., et al. (2019a). MIROC MIROC-ES2L modeloutput prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.5742.
+Tachiiri, K., Abe, M., Hajima, T., Arakawa, O., Suzuki, T., Komuro, Y., et al. (2019b). MIROC MIROC-ES2L modeloutput prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.5745.
+Tachiiri, K., Abe, M., Hajima, T., Arakawa, O., Suzuki, T., Komuro, Y., et al. (2019c). MIROC MIROC-ES2L modeloutput prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.5770.
+Tang, Y., Rumbold, S., Ellis, R., Kelley, D., Mulcahy, J., Sellar, A., et al. (2019a). MOHC UKESM1.0-LL modeloutput prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1569.
+Tang, Y., Rumbold, S., Ellis, R., Kelley, D., Mulcahy, J., Sellar, A., et al. (2019b). MOHC UKESM1.0-LL modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.6113.
+Tang, Y., Rumbold, S., Ellis, R., Kelley, D., Mulcahy, J., Sellar, A., et al. (2019c). MOHC UKESM1.0-LL modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.6298.
+Tatebe, H., and Watanabe, M. (2018a). MIROC MIROC6 model output prepared for CMIP6 CMIP.doi:10.22033/ESGF/CMIP6.881.
+Tatebe, H., and Watanabe, M. (2018b). MIROC MIROC6 model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.5603.
+Tatebe, H., and Watanabe, M. (2018c). MIROC MIROC6 model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.5711.
+Tilinina, N., Gulev, S. K., Rudeva, I., and Koltermann, P. (2013). Comparing cyclone life cycle characteristics and theirinterannual variability in different reanalyses. J. Clim. 26, 6419–6438. doi:10.1175/JCLI-D-12-00777.1.
+Trenberth, K. E., Fasullo, J. T., and Mackaro, J. (2011). Atmospheric moisture transports from ocean to land and globalenergy flows in reanalyses. J. Clim. 24, 4907–4924. doi:10.1175/2011JCLI4171.1.
+Voldoire, A. (2018a). CMIP6 simulations of the CNRM-CERFACS based on CNRM-CM6-1 model for CMIPexperiment historical. doi:10.22033/ESGF/CMIP6.4066.
+Voldoire, A. (2018b). CMIP6 simulations of the CNRM-CERFACS based on CNRM-CM6-1 model for CMIPexperiment piControl. doi:10.22033/ESGF/CMIP6.4163.
+Voldoire, A. (2019a). CNRM-CERFACS CNRM-CM6-1-HR model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.4067.
+Voldoire, A. (2019b). CNRM-CERFACS CNRM-CM6-1-HR model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.4164.
+Voldoire, A. (2019c). CNRM-CERFACS CNRM-CM6-1-HR model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.4190.
+Voldoire, A. (2019d). CNRM-CERFACS CNRM-CM6-1-HR model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.4225.
+Voldoire, A. (2019e). CNRM-CERFACS CNRM-CM6-1 model output prepared for CMIP6 DAMIP hist-aer.doi:10.22033/ESGF/CMIP6.4044.
+Voldoire, A. (2019f). CNRM-CERFACS CNRM-CM6-1 model output prepared for CMIP6 DAMIP hist-GHG.doi:10.22033/ESGF/CMIP6.4043.
+Voldoire, A. (2019g). CNRM-CERFACS CNRM-CM6-1 model output prepared for CMIP6 DAMIP hist-nat.doi:10.22033/ESGF/CMIP6.4048.
+Voldoire, A. (2019h). CNRM-CERFACS CNRM-CM6-1 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.4184.
+Voldoire, A. (2019i). CNRM-CERFACS CNRM-CM6-1 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.4189.
+Voldoire, A. (2019j). CNRM-CERFACS CNRM-CM6-1 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.4224.
+Voldoire, A. (2019k). CNRM-CERFACS CNRM-ESM2-1 model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.4186.
+Voldoire, A. (2019l). CNRM-CERFACS CNRM-ESM2-1 model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.4191.
+Voldoire, A. (2019m). CNRM-CERFACS CNRM-ESM2-1 model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.4226.
+Voldoire, A. (2020). CNRM-CERFACS CNRM-CM6-1-HR model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.4185.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019a). INM INM-CM4-8 modeloutput prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1422.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019b). INM INM-CM4-8 modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.5069.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019c). INM INM-CM4-8 modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.5080.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019d). INM INM-CM4-8 modeloutput prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.12325.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019e). INM INM-CM4-8 modeloutput prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.12327.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019f). INM INM-CM4-8 modeloutput prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.12337.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019g). INM INM-CM5-0 modeloutput prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1423.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019h). INM INM-CM5-0 modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.5070.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019i). INM INM-CM5-0 modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.5081.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019j). INM INM-CM5-0 modeloutput prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.12326.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019k). INM INM-CM5-0 modeloutput prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.12328.
+Volodin, E., Mortikov, E., Gritsun, A., Lykossov, V., Galin, V., Diansky, N., et al. (2019l). INM INM-CM5-0 modeloutput prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.12338.
+Wang, T., Wang, H. J., Otterå, O. H., Gao, Y. Q., Suo, L. L., Furevik, T., et al. (2013). Anthropogenic agent implicatedas a prime driver of shift in precipitation in eastern China in the late 1970s. Atmos. Chem. Phys. 13, 12433–12450. doi:10.5194/acp-13-12433-2013.
+Westra, S., Alexander, L. V., and Zwiers, F. W. (2013). Global increasing trends in annual maximum dailyprecipitation. J. Clim. doi:10.1175/JCLI-D-12-00502.1.
+Westra, S., and Sisson, S. A. (2011). Detection of non-stationarity in precipitation extremes using a max-stable processmodel. J. Hydrol. 406, 119–128. doi:10.1016/j.jhydrol.2011.06.014.
+Wieners, K.-H., Giorgetta, M., Jungclaus, J., Reick, C., Esch, M., Bittner, M., et al. (2019a). MPI-M MPI-ESM1.2-LRmodel output prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.6595.
+Wieners, K.-H., Giorgetta, M., Jungclaus, J., Reick, C., Esch, M., Bittner, M., et al. (2019b). MPI-M MPI-ESM1.2-LRmodel output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.6675.
+Wieners, K.-H., Giorgetta, M., Jungclaus, J., Reick, C., Esch, M., Bittner, M., et al. (2019c). MPI-M MPI-ESM1.2-LRmodel output prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.6690.
+Wieners, K.-H., Giorgetta, M., Jungclaus, J., Reick, C., Esch, M., Bittner, M., et al. (2019d). MPI-M MPI-ESM1.2-LRmodel output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.6693.
+Wieners, K.-H., Giorgetta, M., Jungclaus, J., Reick, C., Esch, M., Bittner, M., et al. (2019e). MPI-M MPI-ESM1.2-LRmodel output prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.6705.
+Wu, T., Chu, M., Dong, M., Fang, Y., Jie, W., Li, J., et al. (2018a). BCC BCC-CSM2MR model output prepared forCMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.2948.
+Wu, T., Chu, M., Dong, M., Fang, Y., Jie, W., Li, J., et al. (2018b). BCC BCC-CSM2MR model output prepared forCMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.3016.
+Wu, T., Chu, M., Dong, M., Fang, Y., Jie, W., Li, J., et al. (2019a). BCC BCC-CSM2MR model output prepared forCMIP6 DAMIP hist-aer. doi:10.22033/ESGF/CMIP6.2925.
+Wu, T., Chu, M., Dong, M., Fang, Y., Jie, W., Li, J., et al. (2019b). BCC BCC-CSM2MR model output prepared forCMIP6 DAMIP hist-GHG. doi:10.22033/ESGF/CMIP6.2924.
+Wu, T., Chu, M., Dong, M., Fang, Y., Jie, W., Li, J., et al. (2019c). BCC BCC-CSM2MR model output prepared forCMIP6 DAMIP hist-nat. doi:10.22033/ESGF/CMIP6.2929.
+Xin, X., Wu, T., Shi, X., Zhang, F., Li, J., Chu, M., et al. (2019a). BCC BCC-CSM2MR model output prepared forCMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.3028.
+Xin, X., Wu, T., Shi, X., Zhang, F., Li, J., Chu, M., et al. (2019b). BCC BCC-CSM2MR model output prepared forCMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.3030.
+Xin, X., Wu, T., Shi, X., Zhang, F., Li, J., Chu, M., et al. (2019c). BCC BCC-CSM2MR model output prepared forCMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.3050.
+Xin, X., Zhang, J., Zhang, F., Wu, T., Shi, X., Li, J., et al. (2018). BCC BCC-CSM2MR model output prepared forCMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1725.
+Yu, Y. (2018). CAS FGOALS-f3-L model output prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.1782.
+Yu, Y. (2019a). CAS FGOALS-f3-L model output prepared for CMIP6 CMIP historical.doi:10.22033/ESGF/CMIP6.3355.
+Yu, Y. (2019b). CAS FGOALS-f3-L model output prepared for CMIP6 CMIP piControl.doi:10.22033/ESGF/CMIP6.3447.
+Yu, Y. (2019c). CAS FGOALS-f3-L model output prepared for CMIP6 ScenarioMIP ssp126.doi:10.22033/ESGF/CMIP6.3464.
+Yu, Y. (2019d). CAS FGOALS-f3-L model output prepared for CMIP6 ScenarioMIP ssp245.doi:10.22033/ESGF/CMIP6.3468.
+Yu, Y. (2019e). CAS FGOALS-f3-L model output prepared for CMIP6 ScenarioMIP ssp585.doi:10.22033/ESGF/CMIP6.3502.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019a). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 CMIP. doi:10.22033/ESGF/CMIP6.621.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019b). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.6842.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019c). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.6900.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019d). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 DAMIP hist-aer. doi:10.22033/ESGF/CMIP6.6821.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019e). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 DAMIP hist-GHG. doi:10.22033/ESGF/CMIP6.6820.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019f). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 DAMIP hist-nat. doi:10.22033/ESGF/CMIP6.6825.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019g). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.6909.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019h). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.6910.
+Yukimoto, S., Koshiro, T., Kawai, H., Oshima, N., Yoshida, K., Urakawa, S., et al. (2019i). MRI MRI-ESM2.0 modeloutput prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.6929.
+Zeder, J., and Fischer, E. M. (2020). Observed extreme precipitation trends and scaling in Central Europe. WeatherClim. Extrem. 29, 100266. doi:10.1016/j.wace.2020.100266.
+Zhang, J., Wu, T., Shi, X., Zhang, F., Li, J., Chu, M., et al. (2018). BCC BCC-ESM1 model output prepared for CMIP6CMIP piControl. doi:10.22033/ESGF/CMIP6.3017.
+Zhou, Y., Sawyer, A. H., David, C. H., and Famiglietti, J. S. (2019). Fresh submarine groundwater discharge to thenear‐global coast. Geophys. Res. Lett., 2019GL082749. doi:10.1029/2019GL082749.
+Ziehn, T., Chamberlain, M., Lenton, A., Law, R., Bodman, R., Dix, M., et al. (2019a). CSIRO ACCESS-ESM1.5 modeloutput prepared for CMIP6 CMIP historical. doi:10.22033/ESGF/CMIP6.4272.
+Ziehn, T., Chamberlain, M., Lenton, A., Law, R., Bodman, R., Dix, M., et al. (2019b). CSIRO ACCESS-ESM1.5model output prepared for CMIP6 CMIP piControl. doi:10.22033/ESGF/CMIP6.4312.
+Ziehn, T., Chamberlain, M., Lenton, A., Law, R., Bodman, R., Dix, M., et al. (2019c). CSIRO ACCESS-ESM1.5 modeloutput prepared for CMIP6 ScenarioMIP ssp126. doi:10.22033/ESGF/CMIP6.4320.
+Ziehn, T., Chamberlain, M., Lenton, A., Law, R., Bodman, R., Dix, M., et al. (2019d). CSIRO ACCESS-ESM1.5model output prepared for CMIP6 ScenarioMIP ssp245. doi:10.22033/ESGF/CMIP6.4322.
+Ziehn, T., Chamberlain, M., Lenton, A., Law, R., Bodman, R., Dix, M., et al. (2019e). CSIRO ACCESS-ESM1.5 modeloutput prepared for CMIP6 ScenarioMIP ssp585. doi:10.22033/ESGF/CMIP6.4333.
+Ziehn, T., Dix, M., Mackallah, C., Chamberlain, M., Lenton, A., Law, R., et al. (2020a). CSIRO ACCESS-ESM1.5model output prepared for CMIP6 DAMIP hist-aer. doi:10.22033/ESGF/CMIP6.14370.
+Ziehn, T., Dix, M., Mackallah, C., Chamberlain, M., Lenton, A., Law, R., et al. (2020b). CSIRO ACCESS-ESM1.5model output prepared for CMIP6 DAMIP hist-GHG. doi:10.22033/ESGF/CMIP6.14366.
+Ziehn, T., Dix, M., Mackallah, C., Chamberlain, M., Lenton, A., Law, R., et al. (2020c). CSIRO ACCESS-ESM1.5model output prepared for CMIP6 DAMIP hist-nat. doi:10.22033/ESGF/CMIP6.14378.
