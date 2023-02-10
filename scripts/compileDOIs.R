@@ -12,13 +12,7 @@ Files <- list.files(pattern = ".bib")
 # DOI is contained on one line with accompanying ID information.
 extractDOIs <- function(files){
   # Create blank tibble to be appended to in the for loop.
-  DOIs <- tibble(WG = character(),
-                 chapter = character(),
-                 label = character(),
-                 doi = character(),
-                 url = character(),
-                 isbn = character(),
-                 issn = character())
+  DOIs <- tibble()
   
   for(i in files){
     bibDF <- read_bibliography(i) %>%
