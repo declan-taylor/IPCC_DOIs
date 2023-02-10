@@ -18,7 +18,6 @@ explainCitations <- function(files){
   citationInfo <- tibble()
   
   for(i in files){
-    browser()
     bibDF <- read_bibliography(i)
     # Extract relevant parameters (working group, chapter number, number of 
     # citations and DOIs) from the file name.
@@ -42,12 +41,12 @@ explainCitations <- function(files){
     # Coverage of abstracts in the IPCC .bib files.
     percentABS = round(100*((numABS - numCitations)/numCitations))
     # Append the extracted data to a dataframe for easy review.
-    citationInfo <- bind_rows(citationInfo, tibble(WG, chapter, numCitations, numDOI, numURL, percentDOI, percentURL))
+    citationInfo <- bind_rows(citationInfo, tibble(WG, chapter, numCitations, numDOI, numABS, numURL, percentDOI, percentABS, percentURL))
     citationInfo <<- citationInfo
   } 
 }
 
 # Run the above function.
 explainCitations(Files)
-# Export the citationInfo table as a CSV.
+  # Export the citationInfo table as a CSV.
 write_csv(citationInfo, file = here("data/citationInfo.csv"))
