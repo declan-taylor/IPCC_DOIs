@@ -35,11 +35,11 @@ explainCitations <- function(files){
       filter(!is.na({if("abstract" %in% names(.)) abstract else NA})) %>%
       nrow()
     # Rounded percentage of number of references with DOIs
-    percentDOI = round(100*((numDOI - numCitations)/numCitations))
+    percentDOI = round(100*(numDOI/numCitations))
     # Total coverage if we include url, issn, isbn.
-    percentURL = round(100*(((numDOI + numURL) - numCitations)/numCitations))
+    percentURL = round(100*((numDOI + numURL)/numCitations))
     # Coverage of abstracts in the IPCC .bib files.
-    percentABS = round(100*((numABS - numCitations)/numCitations))
+    percentABS = round(100*(numABS/numCitations))
     # Append the extracted data to a dataframe for easy review.
     citationInfo <- bind_rows(citationInfo, tibble(WG, chapter, numCitations, numDOI, numABS, numURL, percentDOI, percentABS, percentURL))
     citationInfo <<- citationInfo
