@@ -18,6 +18,7 @@ explainCitations <- function(files){
   citationInfo <- tibble()
   
   for(i in files){
+    browser()
     bibDF <- read_bibliography(i)
     # Extract relevant parameters (working group, chapter number, number of 
     # citations and DOIs) from the file name.
@@ -30,10 +31,16 @@ explainCitations <- function(files){
     # A count of references that do not have DOIs but do have some other sort of
     # identifier.
     numURL <- nrow(filter(bibDF, is.na(doi) & !is.na(url)))
+    # Count abstracts: the IF an abstract column exists.
+    numABS <- bibDF %>%
+      filter(!is.na({if("abstract" %in% names(.)) abstract else NA})) %>%
+      nrow()
     # Rounded percentage of number of references with DOIs
-    percentDOI = round(100*(1-((numCitations - numDOI)/numCitations)))
+    percentDOI = round(100*((numDOI - numCitations)/numCitations))
     # Total coverage if we include url, issn, isbn.
-    percentURL = round(100*(1-((numCitations - (numDOI + numURL))/numCitations)))
+    percentURL = round(100*(((numDOI + numURL) - numCitations)/numCitations))
+    # Coverage of abstracts in the IPCC .bib files.
+    percentABS = round(100*((numABS - numCitations)/numCitations))
     # Append the extracted data to a dataframe for easy review.
     citationInfo <- bind_rows(citationInfo, tibble(WG, chapter, numCitations, numDOI, numURL, percentDOI, percentURL))
     citationInfo <<- citationInfo
