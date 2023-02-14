@@ -40,3 +40,4 @@ vignettes/*.pdf
 .ipynb_checkpoints/IPCC_DOIs_Abstracts-checkpoint.ipynb
 data/.DS_Store
 data/AR6_bibFiles/.DS_Store
+.DS_Store

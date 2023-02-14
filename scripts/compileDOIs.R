@@ -35,7 +35,7 @@ extractDOIs <- function(files){
 # Run the above function
 extractDOIs(Files)
 # Save the tibble output as a CSV
-write_csv(DOIs, file = here("data/AR6_DOIs_test.csv"))
+write_csv(DOIs, file = here("data/AR6_DOIs.csv"))
 
 # Showing that there are > 32000 reports in WGII with citations.
 # filter(DOIs, WG == "WGII" & !is.na(doi))
