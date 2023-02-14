@@ -20,7 +20,7 @@ extractDOIs <- function(files){
       # columns to support the long-data format.
       mutate(WG = str_extract(i, "WG[I]{1,3}(?=_)"),
              chapter = str_extract(i, "(?<=References_)[A-z0-9]*(?=\\.)")) %>%
-      select(any_of(c("WG", "chapter", "label", "journal", "publisher", "abstract", "doi", "url", "isbn", "issn")))
+      select(any_of(c("WG", "chapter", "year", "label", "journal", "publisher", "abstract", "doi", "url", "isbn", "issn")))
     #Save the dataframe to the local function environment
     # assign(paste0(str_extract(i, ".+(?=.bib)")), bibDF)
     
@@ -38,4 +38,4 @@ extractDOIs(Files)
 write_csv(DOIs, file = here("data/AR6_DOIs.csv"))
 
 # Showing that there are > 32000 reports in WGII with citations.
-filter(DOIs, WG == "WGII" & !is.na(doi))
+# filter(DOIs, WG == "WGII" & !is.na(doi))
